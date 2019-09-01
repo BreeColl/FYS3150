@@ -1,9 +1,8 @@
-# FYS3150
-projects for FYS3150
-<<<<<<< HEAD
-cats
+/* problem 3.1 lecture notes */
 
-
-lkabdfjpkhlzgflkjahdflkgaljdsgfjkasfgdjk
-
-
+using namespace std;
+# include <iostream>
+# include <cmath>
+int main (){
+double x;
+cout<<"wr"<<endl
